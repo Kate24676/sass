@@ -2,4 +2,6 @@
 
 }
 
-.box { @include border-thickness(10px); }
+img { 
+    border-width: 10px;
+}
